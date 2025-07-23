@@ -1,0 +1,201 @@
+student_id,name,age,gender,email,phone,enrollment_year,course_batch,city,graduation_year
+100,Juan Rogers,20,Male,adam11@example.org,1698041829,2021,IT-B,South Brenda,2025
+101,Brian Preston,18,Male,lopeztimothy@example.com,9204219119,2018,IT-B,Katrinabury,2022
+102,Isabella Gutierrez,21,Female,carolynshort@example.org,1169059497,2018,CE-E,North Mary,2022
+103,Timothy Johnson,25,Male,atkinsondeborah@example.com,9686190522,2019,IT-B,Lake Linda,2023
+104,Heather Chung,19,Others,jesse68@example.com,2836844366,2021,EC-D,Fieldsmouth,2025
+105,Jennifer Davidson,20,Others,arnoldwilliam@example.org,1381324482,2020,ME-C,Rodriguezport,2024
+106,David Hancock,21,Male,adam60@example.org,9217678209,2021,IT-B,Lake Christophershire,2025
+107,Eric Hawkins,20,Male,jhall@example.com,4906151876,2018,EC-D,Adrianville,2022
+108,Paul Wade,20,Female,xpage@example.org,7930102027,2018,EC-D,Thomaschester,2022
+109,Michael Bray,24,Female,brianwelch@example.net,9149924504,2020,CE-E,North Jeremy,2024
+110,Melvin Best,25,Others,imills@example.org,3884857188,2018,EC-D,South Zacharyport,2022
+111,James Rosales,24,Others,harry99@example.org,3872807503,2021,CE-E,West Hector,2025
+112,Michelle Murray,20,Male,daniel74@example.net,9955990463,2020,EC-D,Scottbury,2024
+113,Mary Elliott,18,Others,thomasward@example.org,6844802696,2021,IT-B,Thomashaven,2025
+114,Carrie Phillips,21,Male,samantha07@example.com,6611121668,2020,EC-D,Pamelachester,2024
+115,Rebecca Williams,20,Female,stacy63@example.org,9410854392,2018,IT-B,Bobbystad,2022
+116,Richard Thompson,24,Male,chambersemily@example.com,7094900106,2021,EC-D,Melindaland,2025
+117,Melissa Zamora,19,Female,bodom@example.org,6415952077,2020,CE-E,Williamsview,2024
+118,Johnny Collins,25,Male,youngamanda@example.com,5523774674,2020,IT-B,Simonshire,2024
+119,Todd Fernandez,21,Male,owenskristin@example.net,4706288229,2020,EC-D,Lake Laura,2024
+120,Heather Smith,23,Others,gardnerkayla@example.net,3523596675,2021,EC-D,East Jennifermouth,2025
+121,Dr. Greg Mcmahon,23,Male,harveydalton@example.com,1101306907,2019,CS-A,South Christophershire,2023
+122,Nicole Ruiz,20,Male,kennedygeorge@example.org,2475405070,2021,CE-E,Carterview,2025
+123,Richard Stevens,25,Female,katherinepalmer@example.org,5987059966,2021,ME-C,Dayfurt,2025
+124,Brian Campbell,19,Male,boyletodd@example.com,5801546075,2019,IT-B,South Natasha,2023
+125,Pamela Davis,25,Others,madison83@example.com,8142284394,2021,CS-A,West Jason,2025
+126,Sherry Kline,20,Others,coxkara@example.com,5384290556,2021,EC-D,West Keithburgh,2025
+127,Natasha Moore,20,Others,tonyataylor@example.net,3568707784,2021,ME-C,Julieburgh,2025
+128,Morgan Smith,22,Others,othomas@example.net,3146897095,2018,CS-A,Jamesmouth,2022
+129,John Berger,18,Others,abell@example.org,9946356797,2021,IT-B,Hartmanberg,2025
+130,Adam Smith,21,Female,padillaalexandra@example.net,5956320171,2021,CE-E,North Jenniferborough,2025
+131,Sean Allen,20,Female,gonzalezjennifer@example.org,2274131182,2020,IT-B,Lake Jenniferland,2024
+132,Lee Williams,23,Female,robert90@example.net,1254529835,2019,ME-C,Joshuafort,2023
+133,Jake Fuller,22,Male,canderson@example.org,1629999341,2019,CE-E,Port Nicholas,2023
+134,Morgan Steele,19,Female,russovanessa@example.com,8226683544,2021,CS-A,Johnton,2025
+135,Kevin Clark,18,Others,hancocktonya@example.net,298642399,2020,CE-E,Port Brandonside,2024
+136,Nancy Watkins,18,Female,acook@example.net,7770378619,2019,ME-C,Reedhaven,2023
+137,Austin Price,22,Female,tracyhuffman@example.org,5243886937,2020,CE-E,North Kimberlychester,2024
+138,Michael Marquez,20,Female,donnaryan@example.net,2628902750,2019,CS-A,South Dawn,2023
+139,Michael Brooks,24,Male,hutchinsondan@example.com,9819409387,2021,CS-A,Harrisside,2025
+140,Robin Burton,22,Female,tinachurch@example.net,5361370457,2018,ME-C,Scottfort,2022
+141,Rhonda Lutz,24,Female,tommysmith@example.net,2318788977,2019,ME-C,West Melindaburgh,2023
+142,Nicole Mckay,20,Male,raymond99@example.net,3372286337,2018,CS-A,Juliantown,2022
+143,Katherine Beck DDS,25,Others,melissakhan@example.net,1116731911,2019,CE-E,Kelseyberg,2023
+144,Jennifer Hobbs,18,Male,michaelblack@example.org,3128488253,2020,ME-C,South Angelaburgh,2024
+145,Mike Johnson,22,Male,kristi37@example.com,9376048209,2019,ME-C,Danielside,2023
+146,Jeremy Mcintosh,18,Male,alexis80@example.org,6054055558,2019,IT-B,South Thomasport,2023
+147,Derek Reeves,24,Female,andrewshort@example.org,1295392025,2019,CS-A,South Julie,2023
+148,Kelly Taylor,24,Others,brittany48@example.org,2857146854,2021,CE-E,North Patriciabury,2025
+149,Monica Donovan,19,Male,stephensphilip@example.org,7381043814,2021,ME-C,Port Wendy,2025
+150,Jenny Lee,18,Female,julie91@example.com,603405691,2018,CE-E,Carolshire,2022
+151,John Romero,23,Others,allisonkatherine@example.com,9896574693,2020,EC-D,Anaberg,2024
+152,Sabrina Butler,24,Male,brandonwilson@example.net,882275644,2019,EC-D,Caitlinland,2023
+153,Christopher Patrick,25,Male,jameshutchinson@example.net,9513023186,2020,IT-B,Thomasshire,2024
+154,Taylor Berry,21,Female,colleencarter@example.com,2637584931,2018,IT-B,Dawnside,2022
+155,Aaron Henry,21,Male,diana43@example.org,4948471545,2020,ME-C,Andersontown,2024
+156,Steven Armstrong,22,Others,brittany58@example.org,9052107253,2020,ME-C,West Andrewland,2024
+157,Lisa Murphy,23,Others,brianlarson@example.org,7125681574,2021,ME-C,South Christina,2025
+158,Scott Manning,18,Others,william77@example.org,2553930970,2020,CE-E,Williamsside,2024
+159,Kimberly Davis,23,Others,sharonhuang@example.org,7971028189,2018,IT-B,New Gabrielfort,2022
+160,Joy Johnson,20,Others,hwilliams@example.net,4882891832,2019,EC-D,Marybury,2023
+161,Victoria Ramos,24,Female,carterstephen@example.com,4277843426,2018,CS-A,West Antonio,2022
+162,Gary Garcia,21,Male,lisa86@example.net,96622876,2021,CS-A,Rushton,2025
+163,Karen Thompson,25,Female,davisadrian@example.com,6798887440,2019,ME-C,Michelleborough,2023
+164,Amanda Mason,24,Female,lesterkerry@example.net,7683966156,2020,CE-E,West Nicholasland,2024
+165,Max Williams V,22,Male,thompsonchristopher@example.net,164040332,2020,ME-C,Smithborough,2024
+166,Samuel Hahn,18,Male,sharonprice@example.org,7015639885,2020,ME-C,Victorchester,2024
+167,Susan Kelly,24,Male,wangdenise@example.org,3797758871,2020,CS-A,North Robertfurt,2024
+168,Calvin Neal,18,Female,kbaker@example.org,3039368000,2019,IT-B,West Cassidy,2023
+169,Erica Cunningham,21,Others,mfoster@example.org,4348628945,2018,ME-C,Strongville,2022
+170,Joanna Vaughn,25,Others,phillipsstephanie@example.net,9008865608,2020,ME-C,Reidberg,2024
+171,Dakota Thompson,25,Others,arthurguzman@example.org,2399766425,2018,EC-D,Lake William,2022
+172,Amanda Lin,25,Female,anthony96@example.com,2429258127,2018,EC-D,Port Georgebury,2022
+173,Heather Jordan,18,Others,heather81@example.org,6197685406,2018,ME-C,Port Cindychester,2022
+174,Robert Martinez,21,Female,maureenjohns@example.net,2057241994,2018,EC-D,West Carlosfort,2022
+175,Caleb Alvarez,23,Others,jeanette41@example.net,8384841461,2021,CE-E,Ryanland,2025
+176,Amber King,22,Female,chendan@example.org,4241817686,2021,EC-D,West Allisonfort,2025
+177,Laura Hill,25,Female,james53@example.com,6267427132,2018,CS-A,North Joshuastad,2022
+178,Wesley Atkinson,18,Female,wallmichael@example.net,7368505057,2018,ME-C,North Jamesville,2022
+179,Jason Flores MD,24,Male,christy13@example.org,6816576040,2018,ME-C,West Ericshire,2022
+180,Michael Leon III,18,Others,nguyenalexander@example.net,9699419667,2020,ME-C,East Stephentown,2024
+181,Miguel Adams,25,Male,melissaenglish@example.com,7525244065,2018,IT-B,Rebeccahaven,2022
+182,Jill Kelley,20,Male,marystuart@example.com,1925011163,2019,ME-C,East Steven,2023
+183,Carmen Lowery,23,Female,troy94@example.com,6696130253,2018,ME-C,South Cody,2022
+184,Melissa Sherman,23,Female,michaelprice@example.com,9934576786,2021,CS-A,West Christinamouth,2025
+185,Deborah Jordan,25,Male,mward@example.net,9431048331,2020,EC-D,South Sharonborough,2024
+186,Ana Brown,20,Female,meredith42@example.com,8238998503,2020,IT-B,West Franklinview,2024
+187,Jade Dyer,25,Male,michael03@example.com,7087757380,2019,CS-A,Penastad,2023
+188,Stephanie Smith,24,Others,traci28@example.com,3380742601,2019,CS-A,South Melinda,2023
+189,Kelly Carr,19,Female,john50@example.org,8809689535,2018,IT-B,Lake Robinfurt,2022
+190,John Brown,20,Male,kimberly99@example.net,8437524583,2018,CS-A,Stevensland,2022
+191,Ashley Hebert,19,Others,barbaragardner@example.net,3083881242,2019,CS-A,Carriemouth,2023
+192,Erin Mcgee,21,Female,leecathy@example.com,2624442949,2019,EC-D,Phillipstown,2023
+193,Mr. Timothy Fry,22,Male,garciajade@example.org,7832251978,2018,CS-A,Ethanhaven,2022
+194,Danielle King,25,Male,zwright@example.net,6879882500,2019,ME-C,Lake Natalieshire,2023
+195,James Palmer,25,Female,leachwendy@example.net,4226105465,2018,ME-C,East Adam,2022
+196,Nathan Hunt,21,Others,goodsamantha@example.org,2304263326,2018,CE-E,West Matthew,2022
+197,Nathan Reyes,18,Male,claytonlori@example.net,1271090754,2020,ME-C,Ramirezchester,2024
+198,Danielle Espinoza,24,Male,patelsandra@example.net,2079941146,2021,EC-D,Kimberlystad,2025
+199,Emily Guerrero,24,Female,uward@example.org,7817438959,2020,CE-E,Vasquezmouth,2024
+200,Sarah Black,22,Female,pyoung@example.com,8932606608,2019,IT-B,Alexanderview,2023
+201,Charles Cook,21,Male,nbaker@example.org,6586998504,2021,EC-D,Port Christophershire,2025
+202,Matthew Watson,19,Male,jgutierrez@example.org,3288403936,2021,EC-D,Port Bradleyland,2025
+203,Bob Stewart,25,Others,lfuentes@example.org,4970790805,2019,CS-A,New Elizabeth,2023
+204,Amy Howard,23,Male,nkidd@example.net,4119544202,2020,CE-E,Loveview,2024
+205,Mrs. Jill Hubbard,24,Female,audrey26@example.com,5187365204,2018,ME-C,Weisston,2022
+206,Sonya Stewart,19,Male,henry04@example.com,4392557432,2018,CE-E,North Kristy,2022
+207,Kayla Archer,24,Male,carrierice@example.com,3551752021,2018,CS-A,Port Brittanybury,2022
+208,Adam Williams,22,Female,vanessaburns@example.net,9961744323,2018,CS-A,Smithfurt,2022
+209,Kimberly Brady,25,Male,htorres@example.com,6289012892,2019,CE-E,Sharonview,2023
+210,Mrs. Amanda Krueger DDS,20,Male,james53@example.com,1232425113,2018,CS-A,Michaelview,2022
+211,David Mccann,25,Others,oscar77@example.net,2040447527,2020,CE-E,Victoriachester,2024
+212,Amanda Reyes,23,Male,robert15@example.com,7970514764,2018,CE-E,West Kimberly,2022
+213,Megan Meyers,20,Others,jwalker@example.org,2760953885,2018,IT-B,Matthewhaven,2022
+214,Suzanne Keller,20,Others,omcneil@example.com,1566343586,2019,IT-B,New Jason,2023
+215,Juan Allen,21,Female,mgreen@example.org,470548128,2019,EC-D,Hernandezland,2023
+216,Adam Jenkins,20,Male,powellcraig@example.org,6384132506,2021,CS-A,South Mathewbury,2025
+217,Bradley King,21,Female,wbailey@example.com,5329141489,2019,ME-C,Freemanshire,2023
+218,Tom Wright,24,Male,vwilson@example.com,9473000664,2021,EC-D,Jamieberg,2025
+219,Heather Hutchinson,25,Others,nicholasgonzalez@example.com,3352230027,2020,CS-A,Port Sherry,2024
+220,Anthony Perez,22,Others,bhill@example.net,5064976742,2019,IT-B,Lake Randall,2023
+221,Michael Heath,22,Female,boothralph@example.org,4082500113,2018,ME-C,Lambertview,2022
+222,Brandon Braun,23,Male,jennifer14@example.net,3546665415,2021,EC-D,New Michelleburgh,2025
+223,Kristen Nicholson,19,Female,wellskathryn@example.net,8033906967,2020,EC-D,Timothyshire,2024
+224,Zachary Daniels,24,Female,russojames@example.com,6741511420,2020,ME-C,Dillonberg,2024
+225,Tamara Hancock,19,Others,christianrodgers@example.org,2138297139,2020,CE-E,New John,2024
+226,Patrick Perez,25,Male,gregorybauer@example.net,4079890652,2019,ME-C,North Christopher,2023
+227,Jessica Reyes,22,Male,gbenson@example.net,8327359957,2020,IT-B,North Brian,2024
+228,Cheryl Pham,24,Others,karen83@example.net,6369246021,2020,IT-B,Port Joseph,2024
+229,William Thomas,24,Others,butlerjohn@example.net,6347252944,2019,ME-C,Lake Jesse,2023
+230,Evelyn Sutton,19,Others,jwilliams@example.com,8205042026,2021,CE-E,Lake Joannland,2025
+231,Kurt Castillo,21,Female,christopher21@example.org,2848598960,2021,EC-D,South Wyattburgh,2025
+232,Katherine Williams,18,Female,lorireid@example.org,4698378714,2021,IT-B,North Melissahaven,2025
+233,Robin Brooks,22,Female,dsanders@example.com,5410583986,2019,EC-D,Bryanberg,2023
+234,Denise Hudson,18,Male,duane72@example.net,8410057540,2018,EC-D,Michaelshire,2022
+235,Tyler Newman,20,Others,laurie58@example.com,1845651042,2020,EC-D,Port Seanland,2024
+236,Terry Ramos,22,Others,erin81@example.com,8257120917,2019,ME-C,Clineshire,2023
+237,Keith Perry,22,Female,devinjohnston@example.org,2215771836,2018,CE-E,North Jillville,2022
+238,Steven Lynch,25,Female,nathaniel18@example.org,7187013380,2020,EC-D,New Sean,2024
+239,Christopher Sanchez,18,Male,qhaynes@example.com,1500114136,2019,CE-E,Crossside,2023
+240,Dan Miller,25,Male,lancethomas@example.com,8721302131,2019,ME-C,Nortonbury,2023
+241,Brittany Morgan,25,Others,vluna@example.com,1828253700,2021,EC-D,Kelleyburgh,2025
+242,Robert Stokes,25,Female,leah33@example.com,8316269584,2021,CS-A,East Antonio,2025
+243,Kelly Thomas,24,Male,nmiller@example.net,3105129674,2018,CS-A,Travisfurt,2022
+244,Luke Wilson,18,Female,martin43@example.org,5999646703,2020,CS-A,South Candice,2024
+245,Alison Thompson,23,Female,zsantiago@example.com,5990787652,2018,CE-E,Rushville,2022
+246,Jasmine Estrada,22,Others,mariepatterson@example.net,6983177460,2018,CS-A,Port Donnamouth,2022
+247,Karen Winters,18,Female,joseph53@example.org,4846570107,2021,CE-E,Port Tonyaville,2025
+248,Melvin Taylor,19,Female,cmendez@example.net,2529305324,2018,CS-A,Masseyfort,2022
+249,Ann Wilson,20,Male,julie88@example.net,3149915015,2021,ME-C,South Richard,2025
+250,Mary Garcia,20,Others,veronicaphelps@example.net,418341814,2020,EC-D,North Christinaborough,2024
+251,Joseph Stewart,21,Male,deborahsanchez@example.net,5518001765,2018,CS-A,Castilloberg,2022
+252,Robert Diaz,21,Others,vwright@example.org,8667886592,2020,ME-C,Samuelfort,2024
+253,David Gardner,20,Others,loriwilkinson@example.com,4045853467,2021,EC-D,Mooreshire,2025
+254,Helen Kaufman,24,Male,tara90@example.com,4567811403,2021,EC-D,Paulatown,2025
+255,Carlos Perez,21,Male,sandraray@example.net,5380803794,2018,CS-A,South Kellyborough,2022
+256,Keith Brown,21,Others,zimmermanmallory@example.com,3605886336,2019,IT-B,Port Evanhaven,2023
+257,Jessica Pennington,20,Others,xwood@example.org,9527270235,2019,CE-E,South Michaelborough,2023
+258,Mr. John Oliver PhD,21,Female,adamskyle@example.org,4885190473,2018,CE-E,West Jacqueline,2022
+259,Joshua Melendez,22,Male,wwilliams@example.net,3821850887,2019,ME-C,South Thomasport,2023
+260,Bryan Hanna,23,Others,beasleykristina@example.com,9191196445,2021,CS-A,Jensentown,2025
+261,Randy Burke,24,Male,aimeemurphy@example.com,2666822755,2020,EC-D,Angelamouth,2024
+262,Brady Riley,24,Others,wrightmatthew@example.net,746692851,2021,EC-D,East Jerrychester,2025
+263,Sean Jones,24,Others,bradleydaniels@example.org,6000957260,2021,CS-A,Saraberg,2025
+264,Raymond Barton,19,Female,athomas@example.net,719209145,2020,CS-A,South Shelleybury,2024
+265,Frank Kim,22,Male,pmaxwell@example.com,4895387706,2020,IT-B,Newtonburgh,2024
+266,Samantha Matthews PhD,20,Female,kponce@example.net,735379804,2018,IT-B,New Connor,2022
+267,Jack Mcgrath,22,Male,johnfischer@example.net,4430241993,2021,IT-B,Meyerfurt,2025
+268,Douglas Lowery,19,Female,david96@example.org,210276272,2019,ME-C,Lake Timothy,2023
+269,Kathryn Barrett,23,Male,kevin10@example.net,7450745112,2019,IT-B,Michaelfurt,2023
+270,Margaret Ramos,24,Male,ffloyd@example.com,4582860493,2021,CS-A,West Katherine,2025
+271,Samuel Rocha,20,Male,hopkinsmary@example.com,915482755,2018,CS-A,Dianeburgh,2022
+272,Mrs. Courtney Terrell,19,Others,danielwhitaker@example.net,893407444,2019,ME-C,Martinview,2023
+273,James Delgado,24,Female,vperez@example.com,515365062,2018,EC-D,Samanthaport,2022
+274,Natasha Gilbert,24,Female,ashleyjeffery@example.com,6091282092,2019,ME-C,South Tiffanyview,2023
+275,Paul Davis,20,Male,rebecca47@example.net,4731527560,2021,CS-A,Mitchellton,2025
+276,Felicia Bradley,18,Others,carrie92@example.net,5689104083,2021,EC-D,West John,2025
+277,Aaron Rhodes,18,Female,kristen47@example.org,3850486303,2020,EC-D,Sharonville,2024
+278,Tiffany Dillon,20,Others,vasquezdanielle@example.org,6083184380,2018,CE-E,West Joseph,2022
+279,John Rodriguez,18,Female,cbrown@example.org,8213902494,2018,CE-E,Patelhaven,2022
+280,Stacey Fisher,18,Male,sreed@example.com,7554136450,2021,ME-C,Christianmouth,2025
+281,Cindy Hart,18,Male,erikhenry@example.net,6614962606,2019,CE-E,Rebeccaberg,2023
+282,John Johnson,21,Male,chelseajordan@example.com,1932108196,2018,ME-C,Kellychester,2022
+283,Aaron Miller,22,Female,allenmarsh@example.org,4406763411,2020,CE-E,Port Genefurt,2024
+284,Micheal Simpson,23,Female,scottconner@example.net,554515248,2018,IT-B,New Tinaview,2022
+285,Christopher Grant,20,Female,bdominguez@example.net,5554991950,2021,CS-A,Mollyborough,2025
+286,Elizabeth Erickson,24,Others,christina43@example.com,2337862584,2020,IT-B,East Tanya,2024
+287,Rebecca Morton,24,Male,williambush@example.org,8482818330,2021,EC-D,Parkerburgh,2025
+288,Kellie Gentry,21,Female,robinhernandez@example.org,6933166357,2021,CS-A,Lake Justinville,2025
+289,Helen Nelson,25,Others,vasquezcarlos@example.net,7090763596,2019,IT-B,New Mitchell,2023
+290,Rebecca Patton,22,Male,lucaswarner@example.org,4427718885,2021,ME-C,Smithberg,2025
+291,John Moore,21,Female,qhart@example.com,7710714094,2019,CE-E,North Evan,2023
+292,Samuel Chen,24,Others,nrobinson@example.org,2640134051,2021,CS-A,Port Scotttown,2025
+293,Karen Galloway,20,Male,danamorris@example.com,1313574380,2018,ME-C,Port Robertmouth,2022
+294,Gina Watkins,21,Others,lpayne@example.org,6980747588,2020,CE-E,New Beth,2024
+295,Connie Shepherd,18,Female,hpope@example.com,1095231818,2021,EC-D,Milesstad,2025
+296,Phillip Green,21,Others,janet05@example.net,431922328,2019,ME-C,Mccluretown,2023
+297,Danny White,21,Others,johnfleming@example.com,7552004455,2019,EC-D,Russellbury,2023
+298,Thomas Ramirez,24,Female,loganvictoria@example.org,9815157704,2019,IT-B,North Mandystad,2023
+299,Christine Simpson,22,Female,michaellove@example.net,2095340426,2021,ME-C,Mccarthyport,2025
